@@ -1,0 +1,6 @@
+page\AddCustomerPage.class
+util\ExcelReader.class
+util\BrowserFactory.class
+page\BasePage.class
+page\DashboardPage.class
+page\LoginPage.class
